@@ -20,4 +20,5 @@ Here are some ideas to get you started:
 - 💻 currently love developing with React and TypeScript
 - 📆 working with @mezzofarte on our scheduling website, here is the [repo](https://github.com/lsuan/link-up)
 - 🌐 check out my personal [website](https://leesuan.netlify.app/) to learn more about me!
+- 🎮 love gaming and interested in trying out game development in the future
 - 📞 want to connect? send me a message on [linkedin](https://www.linkedin.com/in/lsuan/)!
