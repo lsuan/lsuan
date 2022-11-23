@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi it's Lee! 👋🤓
 
 <!--
 **lsuan/lsuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 💙 passionate mid-level full stack software engineer (front end focused)
+- 👨 pronouns: he/him
+- 💻 currently love developing with React and TypeScript
+- 📆 working with @mezzofarte on our scheduling website, here is the [repo](https://github.com/lsuan/link-up)
+- 🌐 check out my personal [website](https://leesuan.netlify.app/) to learn more about me!
+- 📞 want to connect? send me a message on [linkedin](https://www.linkedin.com/in/lsuan/)!
