@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - 💙 passionate mid-level full stack software engineer (front end focused)
 - 👨 pronouns: he/him
 - 💻 currently love developing with React and TypeScript
+- 🎄 participating in [aoc 2022](https://github.com/lsuan/aoc2022) for the first time
 - 📆 working with [@mezzofarte](https://github.com/mezzofarte) on our scheduling website, here is the [repo](https://github.com/lsuan/link-up)
 - 🌐 check out my personal [website](https://leesuan.netlify.app/) to learn more about me!
 - 🎮 love gaming and interested in trying out game development in the future
