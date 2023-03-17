@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💙 passionate mid-level full stack software engineer (front end focused)
+- 💙 passionate frontend engineer with full stack background
 - 👨 pronouns: he/him
 - 💻 currently love developing with React and TypeScript
 - 💡 always interested in expanding my knowledge of ui/ux principles
